@@ -31,8 +31,8 @@ let weni_p = {
   "params": {
     "images": {
       "dims": {
-        "width": 300,
-        "height": 200
+        "width": 120,
+        "height": 80
       }
     },
     "storage": "session"
