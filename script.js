@@ -15,7 +15,7 @@ let weni_p = {
   "transformURLsIntoImages": true,
   "mainColor": "#f20707",
   "profileAvatar": "https://weni-sp-integrations-production.s3.amazonaws.com/apptypes/wwc/0ecbd125-0bc5-4ea2-b257-055a56a2fe54/avatar.png",
-  "startFullScreen": false,
+  "startFullScreen": true,
   "embedded": false,
   "contactTimeout": 0,
   "openLauncherImage": "https://weni-sp-integrations-production.s3.amazonaws.com/apptypes/wwc/0ecbd125-0bc5-4ea2-b257-055a56a2fe54/avatar.png",
