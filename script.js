@@ -8,11 +8,11 @@ weni_s.href = "";
 document.head.appendChild(weni_s);
 
 let weni_p = {
-  "title": "Loja Reserva",
+  "title": "Reserva",
   "inputTextFieldHint": "Type a message...",
   "showFullScreenButton": false,
   "displayUnreadCount": false,
-  "transformURLsIntoImages": true,
+  "transformURLIntoImages": true,
   "mainColor": "#f20707",
   "profileAvatar": "https://weni-sp-integrations-production.s3.amazonaws.com/apptypes/wwc/0ecbd125-0bc5-4ea2-b257-055a56a2fe54/avatar.png",
   "startFullScreen": true,
@@ -31,8 +31,8 @@ let weni_p = {
   "params": {
     "images": {
       "dims": {
-        "width": 120,
-        "height": 80
+        "width": 300,
+        "height": 200
       }
     },
     "storage": "session"
