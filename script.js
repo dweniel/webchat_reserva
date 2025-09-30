@@ -20,6 +20,7 @@ function useWebChat(WebChat) {
 
   let weni_p = {
 "title": "Sou R\u00ea",
+"tooltipMessage": "Ol\u00e1, sou o R\u00ea, posso te ajudar a encontrar produtos com base no que voc\u00ea precisa, me conta um pouco o que procura?",
 "inputTextFieldHint": "Type a message...",
 "showFullScreenButton": false,
 "displayUnreadCount": false,
